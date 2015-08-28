@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodCatering</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_cateeres">Cateeres</string>
+    <string name="Rupee">\u20B9</string>
+</resources>
